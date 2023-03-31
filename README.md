@@ -2,7 +2,7 @@
 > Pawan Jayakumar, George Cao, Kevin Ma
 
 ## Documentation:
-###Process
+### Process
 We searched Kaggle for three datasets regarding video game sales. The three datasets were: Video Game Sales by Genre, Video Game Sales (EDA, Preprocessing, Modeling), and THE CONSOLE WARS: PS vs Xbox vs Wii. We decided to use the Video Games Genre dataset for our data originating from a NoSQL database (MongoDB), the Video Game Sales dataset for our data originating from a relational database (MySQL), and THE CONSOLE WARS: PS vs Xbox vs Wii dataset as data originating from a file system in CSV format.
 
 Link to the datasets
