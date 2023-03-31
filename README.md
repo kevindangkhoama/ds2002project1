@@ -1,5 +1,5 @@
-# ds2002 Project1
-Pawan Jayakumar, George Cao, Kevin Ma
+# DS2002 Project 1
+> Pawan Jayakumar, George Cao, Kevin Ma
 
 ## Documentation:
 
