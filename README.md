@@ -16,4 +16,4 @@ The Jupyter notebook will connect to MySQL and create a database entitled "video
 #### What the SQL queries will display:
 * Grouping Genre and total sales
 * Sales grouped by region
-* Count of video games by genre
+* Critic and User rating per genre
